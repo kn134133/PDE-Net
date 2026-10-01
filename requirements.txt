@@ -1,0 +1,13 @@
+# Install PyTorch and torchvision separately for your CUDA environment first.
+mmengine>=0.5.0,<1.0.0
+mmcv>=2.0.0rc4,<2.2.0
+numpy
+scipy
+Pillow
+opencv-python
+matplotlib
+prettytable
+packaging
+einops
+timm
+fvcore

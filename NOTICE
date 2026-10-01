@@ -1,0 +1,9 @@
+PDE-Net source release notice
+
+This repository retains the CC BY-NC 4.0 license and attribution terms in LICENSE.
+
+The PDE-Net implementation includes code derived from the REST project. Retained REST attribution, including the copyright and commercial-use contact, remains in LICENSE.
+
+The local mmseg/ source tree is derived from OpenMMLab MMSegmentation and retains applicable source-file copyright notices. MMCV/MMEngine-compatible interfaces and custom extensions are used under their respective upstream licenses.
+
+Datasets, trained model weights, benchmark outputs, and manuscript materials are not part of this source release.
